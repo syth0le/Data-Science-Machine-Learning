@@ -1,0 +1,4 @@
+*.md
+venv/
+.idea/
+Lenta.Ru-News-Dataset/
